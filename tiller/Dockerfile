@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-scheduler-amd64:v1.8.6
+FROM gcr.io/kubernetes-helm/tiller:v2.9.1
 MAINTAINER Goun 
